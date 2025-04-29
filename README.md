@@ -76,6 +76,9 @@ A detecção de objetos em novas imagens é realizada utilizando o script `detec
 
 A análise sugere que o modelo treinado por 40 épocas oferece um melhor equilíbrio geral para as classes detectadas neste dataset.
 
+## Vídeo no YouTube (não listado)
+[Link](https://youtu.be/loHK0zsuTU0)
+
 ## Dependências Principais
 
 * Python 3
